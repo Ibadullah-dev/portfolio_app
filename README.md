@@ -14,9 +14,7 @@
 
 ---
 
-## 📱 Screenshots
 
-> _Run the app and take screenshots to add here_
 
 | Home | Skills | Projects | Contact |
 |------|--------|----------|---------|
