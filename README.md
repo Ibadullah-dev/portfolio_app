@@ -244,23 +244,11 @@ Text('IU', ...)   // change to your initials
 In `contact_screen.dart`, update the `_contacts` list:
 
 ```dart
-_ContactItem(platform: 'LinkedIn', value: 'your-linkedin-handle', ...),
-_ContactItem(platform: 'Email',    value: 'your@email.com', ...),
+_ContactItem(platform: 'LinkedIn', value: 'ibad ullah', ...),
+_ContactItem(platform: 'Email',    value: 'ibadk304@gamil.com', ...),
 ```
 
-### Add / remove projects
-In `projects_screen.dart`, add entries to the `_projects` list:
 
-```dart
-_ProjectData(
-  title: 'Your App Name',
-  subtitle: 'Tech · Stack',
-  description: 'What this app does...',
-  tags: ['Flutter', 'Firebase'],
-  icon: Icons.your_icon,
-  gradientColors: [Color(0xFF...), Color(0xFF...)],
-),
-```
 
 ### Change skill bars
 In `skills_screen.dart`, update the `_skills` list:
